@@ -1,0 +1,1112 @@
+{
+    "008.45: Clostridioides difficile infection": [
+        "Watery diarrhea three or more times a day for more than one day.",
+        "Mild belly cramping and tenderness."
+    ],
+    "238.4: Polycythemia vera": [
+        "Itchiness, especially after a warm bath or shower",
+        "Numbness, tingling, burning, or weakness in your hands, feet, arms or legs",
+        "A feeling of fullness soon after eating and bloating or pain in your left upper abdomen due to an enlarged spleen",
+        "Unusual bleeding, such as a nosebleed or bleeding gums",
+        "Painful swelling of one joint, often the big toe",
+        "Shortness of breath and difficulty breathing when lying down"
+    ],
+    "276.51: Dehydration": [
+        "Dry mouth and tongue",
+        "No tears when crying",
+        "No wet diapers for three hours",
+        "Sunken eyes, cheeks",
+        "Sunken soft spot on top of skull",
+        "Listlessness or irritability"
+    ],
+    "277.39: Amyloidosis": [
+        "Severe fatigue and weakness",
+        "Shortness of breath",
+        "Numbness, tingling, or pain in the hands or feet",
+        "Swelling of the ankles and legs",
+        "Diarrhea, possibly with blood, or constipation",
+        "An enlarged tongue, which sometimes looks rippled around its edge",
+        "Skin changes, such as thickening or easy bruising, and purplish patches around the eyes"
+    ],
+    "285.21: Chronic kidney disease": [
+        "Nausea",
+        "Vomiting",
+        "Loss of appetite",
+        "Fatigue and weakness",
+        "Sleep problems",
+        "Urinating more or less",
+        "Decreased mental sharpness",
+        "Muscle cramps",
+        "Swelling of feet and ankles",
+        "Dry, itchy skin",
+        "High blood pressure (hypertension) that's difficult to control",
+        "Shortness of breath, if fluid builds up in the lungs",
+        "Chest pain, if fluid builds up around the lining of the heart"
+    ],
+    "289.59: Wandering spleen": [
+        "Pain in the upper left stomach.",
+        "Tenderness when you touch the upper left stomach.",
+        "Left shoulder pain.",
+        "Confusion, lightheadedness or dizziness."
+    ],
+    "293.0: Impulse-control disorder": [
+        "Inability to resist powerful urges to steal items that you don't need",
+        "Feeling increased tension, anxiety or arousal leading up to the theft",
+        "Feeling pleasure, relief or satisfaction while stealing",
+        "Feeling terrible guilt, remorse, self-loathing, shame or fear of arrest after the theft",
+        "Return of the urges and a repetition of the kleptomania cycle"
+    ],
+    "305.1: Nicotine dependence": [
+        "You can't stop smoking. You've made one or more serious, but unsuccessful, attempts to stop.",
+        "You have withdrawal symptoms when you try to stop. Your attempts at stopping have caused physical and mood-related symptoms, such as strong cravings, anxiety, irritability, restlessness, difficulty concentrating, depressed mood, frustration, anger, increased hunger, insomnia, constipation or diarrhea.",
+        "You keep smoking despite health problems. Even though you've developed health problems with your lungs or your heart, you haven't been able to stop.",
+        "You give up social activities. You may stop going to smoke-free restaurants or stop socializing with family or friends because you can't smoke in these situations."
+    ],
+    "311: Impulse-control disorder": [
+        "Inability to resist powerful urges to steal items that you don't need",
+        "Feeling increased tension, anxiety or arousal leading up to the theft",
+        "Feeling pleasure, relief or satisfaction while stealing",
+        "Feeling terrible guilt, remorse, self-loathing, shame or fear of arrest after the theft",
+        "Return of the urges and a repetition of the kleptomania cycle"
+    ],
+    "327.23: Obstructive sleep apnea": [
+        "Excessive daytime sleepiness.",
+        "Loud snoring.",
+        "Observed episodes of stopped breathing during sleep.",
+        "Waking during the night and gasping or choking.",
+        "Awakening in the morning with a dry mouth or sore throat.",
+        "Morning headaches.",
+        "Trouble focusing during the day.",
+        "Mood changes, such as depression or being easily upset.",
+        "High blood pressure.",
+        "Decreased interest in sex."
+    ],
+    "348.39: Encephalopathy": [
+        "Trouble thinking.",
+        "Memory loss.",
+        "Problems with planning, organization and carrying out tasks."
+    ],
+    "357.2: Polyneuropathy": [
+        "A pins and needles sensation in your fingers, toes, ankles or wrists",
+        "Weakness in your legs that spreads to your upper body",
+        "Unsteady walking or inability to walk or climb stairs",
+        "Difficulty with facial movements, including speaking, chewing or swallowing",
+        "Double vision or inability to move the eyes",
+        "Severe pain that may feel achy, shooting or cramplike and may be worse at night",
+        "Difficulty with bladder control or bowel function",
+        "Rapid heart rate",
+        "Low or high blood pressure",
+        "Difficulty breathing"
+    ],
+    "357.82: Critical illness polyneuropathy": [
+        "Feeling sad or down",
+        "Confused thinking or reduced ability to concentrate",
+        "Excessive fears or worries, or extreme feelings of guilt",
+        "Extreme mood changes of highs and lows",
+        "Withdrawal from friends and activities",
+        "Significant tiredness, low energy or problems sleeping",
+        "Detachment from reality (delusions), paranoia or hallucinations",
+        "Inability to cope with daily problems or stress",
+        "Trouble understanding and relating to situations and to people",
+        "Problems with alcohol or drug use",
+        "Major changes in eating habits",
+        "Sex drive changes",
+        "Excessive anger, hostility or violence",
+        "Suicidal thinking"
+    ],
+    "401.9: Pulmonary hypertension": [
+        "Shortness of breath, at first while exercising and eventually while at rest.",
+        "Blue or gray skin color due to low oxygen levels. Depending on your skin color, these changes may be harder or easier to see.",
+        "Chest pressure or pain.",
+        "Dizziness or fainting spells.",
+        "Fast pulse or pounding heartbeat.",
+        "Fatigue.",
+        "Swelling in the ankles, legs and belly area."
+    ],
+    "412: Myocardial infarction diagnosis": [
+        "Chest pain that may feel like pressure, tightness, pain, squeezing or aching",
+        "Pain or discomfort that spreads to the shoulder, arm, back, neck, jaw, teeth or sometimes the upper belly",
+        "Cold sweat",
+        "Fatigue",
+        "Heartburn or indigestion",
+        "Lightheadedness or sudden dizziness",
+        "Nausea",
+        "Shortness of breath"
+    ],
+    "414.01: Coronary artery bypass surgery": [
+        "Sudden numbness or weakness in the face or limbs, often on one side of the body.",
+        "Sudden trouble speaking and understanding speech.",
+        "Sudden trouble seeing in one or both eyes.",
+        "Sudden dizziness or loss of balance.",
+        "Sudden, severe headache with no known cause."
+    ],
+    "415.0: Pulmonary heart disease": [
+        "Shortness of breath, at first while exercising and eventually while at rest.",
+        "Blue or gray skin color due to low oxygen levels. Depending on your skin color, these changes may be harder or easier to see.",
+        "Chest pressure or pain.",
+        "Dizziness or fainting spells.",
+        "Fast pulse or pounding heartbeat.",
+        "Fatigue.",
+        "Swelling in the ankles, legs and belly area."
+    ],
+    "416.8: Pulmonary heart disease": [
+        "Shortness of breath, at first while exercising and eventually while at rest.",
+        "Blue or gray skin color due to low oxygen levels. Depending on your skin color, these changes may be harder or easier to see.",
+        "Chest pressure or pain.",
+        "Dizziness or fainting spells.",
+        "Fast pulse or pounding heartbeat.",
+        "Fatigue.",
+        "Swelling in the ankles, legs and belly area."
+    ],
+    "416.9: Chronic obstructive pulmonary disease": [
+        "Shortness of breath, especially during physical activities",
+        "Wheezing",
+        "Chest tightness",
+        "A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish",
+        "Frequent respiratory infections",
+        "Lack of energy",
+        "Unintended weight loss (in later stages)",
+        "Swelling in ankles, feet or legs"
+    ],
+    "424.0: Valvular heart disease": [
+        "Shortness of breath at rest or when active or lying down.",
+        "Fatigue.",
+        "Chest pain.",
+        "Dizziness.",
+        "Swelling of the ankles and feet.",
+        "Fainting.",
+        "Irregular heartbeat."
+    ],
+    "424.1: Valvular heart disease": [
+        "Shortness of breath at rest or when active or lying down.",
+        "Fatigue.",
+        "Chest pain.",
+        "Dizziness.",
+        "Swelling of the ankles and feet.",
+        "Fainting.",
+        "Irregular heartbeat."
+    ],
+    "425.4: Cardiomyopathy": [
+        "Chest pain, especially during exercise",
+        "Fainting, especially during or just after exercise or exertion",
+        "Heart murmur, which a health care provider might detect while listening to the heart",
+        "Sensation of fast, fluttering or pounding heartbeats (palpitations)",
+        "Shortness of breath, especially during exercise"
+    ],
+    "427.1: Ventricular tachycardia": [
+        "Chest pain (angina)",
+        "Dizziness",
+        "Pounding heartbeat (palpitations)",
+        "Lightheadedness",
+        "Shortness of breath"
+    ],
+    "427.31: Atrial fibrillation": [
+        "Feelings of a fast, fluttering or pounding heartbeat, called palpitations.",
+        "Chest pain.",
+        "Dizziness.",
+        "Fatigue.",
+        "Lightheadedness.",
+        "Reduced ability to exercise.",
+        "Shortness of breath.",
+        "Weakness."
+    ],
+    "428.23: Heart failure": [
+        "Shortness of breath with activity or when lying down.",
+        "Fatigue and weakness.",
+        "Swelling in the legs, ankles and feet.",
+        "Rapid or irregular heartbeat.",
+        "Reduced ability to exercise.",
+        "Wheezing.",
+        "A cough that doesn't go away or a cough that brings up white or pink mucus with spots of blood.",
+        "Swelling of the belly area.",
+        "Very rapid weight gain from fluid buildup.",
+        "Nausea and lack of appetite.",
+        "Difficulty concentrating or decreased alertness.",
+        "Chest pain if heart failure is caused by a heart attack."
+    ],
+    "428.32: Heart failure with preserved ejection fraction": [
+        "Shortness of breath with activity or when lying down.",
+        "Fatigue and weakness.",
+        "Swelling in the legs, ankles and feet.",
+        "Rapid or irregular heartbeat.",
+        "Reduced ability to exercise.",
+        "Wheezing.",
+        "A cough that doesn't go away or a cough that brings up white or pink mucus with spots of blood.",
+        "Swelling of the belly area.",
+        "Very rapid weight gain from fluid buildup.",
+        "Nausea and lack of appetite.",
+        "Difficulty concentrating or decreased alertness.",
+        "Chest pain if heart failure is caused by a heart attack."
+    ],
+    "437.0: Cerebral atherosclerosis": [
+        "If you have atherosclerosis in your heart arteries, you may have chest pain or pressure (angina).",
+        "If you have atherosclerosis in the arteries leading to your brain, you may have sudden numbness or weakness in your arms or legs, difficulty speaking or slurred speech, temporary loss of vision in one eye, or drooping muscles in your face. These signal a transient ischemic attack (TIA). Untreated, a TIA can lead to a stroke.",
+        "If you have atherosclerosis in the arteries in your arms and legs, you may have symptoms of peripheral artery disease, such as leg pain when walking (claudication) or decreased blood pressure in an affected limb.",
+        "If you have atherosclerosis in the arteries leading to your kidneys, you may develop high blood pressure or kidney failure."
+    ],
+    "458.29: Cerebrospinal fluid leak": [
+        "Cause pain in the back of the head.",
+        "Improve when lying down.",
+        "Worsen when standing up.",
+        "May start or worsen when coughing or straining.",
+        "Rarely, start suddenly. When this happens, it is called a \"thunderclap\" headache."
+    ],
+    "482.9: Bacterial pneumonia": [
+        "Chest pain when you breathe or cough",
+        "Confusion or changes in mental awareness (in adults age 65 and older)",
+        "Cough, which may produce phlegm",
+        "Fatigue",
+        "Fever, sweating and shaking chills",
+        "Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)",
+        "Nausea, vomiting or diarrhea",
+        "Shortness of breath"
+    ],
+    "486: Mycoplasma pneumonia": [
+        "Chest pain when you breathe or cough",
+        "Confusion or changes in mental awareness (in adults age 65 and older)",
+        "Cough, which may produce phlegm",
+        "Fatigue",
+        "Fever, sweating and shaking chills",
+        "Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)",
+        "Nausea, vomiting or diarrhea",
+        "Shortness of breath"
+    ],
+    "491.8: Bronchitis": [
+        "Cough",
+        "Production of mucus (sputum), which can be clear, white, yellowish-gray or green in color \u2014 rarely, it may be streaked with blood",
+        "Fatigue",
+        "Shortness of breath",
+        "Slight fever and chills",
+        "Chest discomfort"
+    ],
+    "496: Chronic obstructive pulmonary disease": [
+        "Shortness of breath, especially during physical activities",
+        "Wheezing",
+        "Chest tightness",
+        "A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish",
+        "Frequent respiratory infections",
+        "Lack of energy",
+        "Unintended weight loss (in later stages)",
+        "Swelling in ankles, feet or legs"
+    ],
+    "511.9: Pleural effusion": [
+        "Shortness of breath or difficulty breathing (dyspnea)",
+        "Discomfort when breathing while lying down",
+        "Chest pain, usually behind the breastbone or on the left side of the chest",
+        "Chest fullness",
+        "Lightheadedness or feeling faint",
+        "Swelling in the abdomen or legs"
+    ],
+    "518.0: Pulmonary embolism": [
+        "Shortness of breath. This symptom usually appears suddenly. Trouble catching your breath happens even when resting and gets worse with physical activity.",
+        "Chest pain. You may feel like you're having a heart attack. The pain is often sharp and felt when you breathe in deeply. The pain can stop you from being able to take a deep breath. You also may feel it when you cough, bend or lean over.",
+        "Fainting. You may pass out if your heart rate or blood pressure drops suddenly. This is called syncope."
+    ],
+    "518.81: Respiratory failure": [
+        "Severe shortness of breath",
+        "Labored and unusually rapid breathing",
+        "Low blood pressure",
+        "Confusion and extreme tiredness"
+    ],
+    "518.83: Respiratory failure": [
+        "Severe shortness of breath",
+        "Labored and unusually rapid breathing",
+        "Low blood pressure",
+        "Confusion and extreme tiredness"
+    ],
+    "519.4: Pelvic floor": [
+        "Seeing or feeling tissue bulge out of the vagina",
+        "Feeling heaviness or pulling in the pelvis",
+        "Feeling like the bladder doesn't empty all the way when you use the bathroom",
+        "Problems with leaking urine, also called incontinence",
+        "Trouble having a bowel movement and needing to press the vagina with your fingers to help have a bowel movement",
+        "Feeling as if you're sitting on a small ball",
+        "Feeling as if you have vaginal tissue rubbing on clothing",
+        "Pressure or discomfort in the pelvis or low back",
+        "Sexual concerns, such as feeling as though the vaginal tissue is loose"
+    ],
+    "530.81: Gastroesophageal reflux disease": [
+        "A burning sensation in your chest (heartburn), usually after eating, which might be worse at night or while lying down",
+        "Backwash (regurgitation) of food or sour liquid",
+        "Upper abdominal or chest pain",
+        "Trouble swallowing (dysphagia)",
+        "Sensation of a lump in your throat"
+    ],
+    "530.82: Esophageal varices": [
+        "Vomiting large amounts of blood.",
+        "Black, tarry or bloody stools.",
+        "Lightheadedness due to blood loss.",
+        "Loss of consciousness in severe cases."
+    ],
+    "536.3: Gastroparesis": [
+        "Vomiting",
+        "Nausea",
+        "Abdominal bloating",
+        "Abdominal pain",
+        "A feeling of fullness after eating just a few bites",
+        "Vomiting undigested food eaten a few hours earlier",
+        "Acid reflux",
+        "Changes in blood sugar levels",
+        "Lack of appetite",
+        "Weight loss and malnutrition"
+    ],
+    "571.2: Cirrhosis": [
+        "Fatigue.",
+        "Easily bleeding or bruising.",
+        "Loss of appetite.",
+        "Nausea.",
+        "Swelling in the legs, feet or ankles, called edema.",
+        "Weight loss.",
+        "Itchy skin.",
+        "Yellow discoloration in the skin and eyes, called jaundice.",
+        "Fluid accumulation in the abdomen, called ascites (uh-SAHY-teez).",
+        "Spiderlike blood vessels on the skin.",
+        "Redness in the palms of the hands.",
+        "Pale fingernails, especially the thumb and index finger.",
+        "Clubbing of the fingers, in which the fingertips spread out and become rounder than usual.",
+        "For women, absence of or loss of periods not related to menopause.",
+        "For men, loss of sex drive, testicular shrinkage or breast enlargement, known as gynecomastia.",
+        "Confusion, drowsiness or slurred speech."
+    ],
+    "576.1: Ascending cholangitis": [
+        "Fatigue",
+        "Itching",
+        "Yellow eyes and skin (jaundice)",
+        "Abdominal pain"
+    ],
+    "576.2: Cholestasis": [
+        "Yellowing of the skin and whites of the eyes, called jaundice",
+        "Nausea",
+        "Loss of appetite",
+        "Oily, foul-smelling stools"
+    ],
+    "584.9: Pulmonary edema": [
+        "Difficulty breathing (dyspnea) or extreme shortness of breath that worsens with activity or when lying down",
+        "A feeling of suffocating or drowning that worsens when lying down",
+        "A cough that produces frothy sputum that may have blood in it",
+        "A rapid, irregular heartbeat (palpitations)",
+        "Anxiety, restlessness or a feeling that something bad is about to happen",
+        "Cold, clammy skin",
+        "Wheezing or gasping for breath "
+    ],
+    "585.6: Chronic kidney disease": [
+        "Nausea",
+        "Vomiting",
+        "Loss of appetite",
+        "Fatigue and weakness",
+        "Sleep problems",
+        "Urinating more or less",
+        "Decreased mental sharpness",
+        "Muscle cramps",
+        "Swelling of feet and ankles",
+        "Dry, itchy skin",
+        "High blood pressure (hypertension) that's difficult to control",
+        "Shortness of breath, if fluid builds up in the lungs",
+        "Chest pain, if fluid builds up around the lining of the heart"
+    ],
+    "585.9: Chronic obstructive pulmonary disease": [
+        "Shortness of breath, especially during physical activities",
+        "Wheezing",
+        "Chest tightness",
+        "A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish",
+        "Frequent respiratory infections",
+        "Lack of energy",
+        "Unintended weight loss (in later stages)",
+        "Swelling in ankles, feet or legs"
+    ],
+    "600.00: Lower urinary tract symptoms": [
+        "A strong urge to urinate that doesn't go away",
+        "A burning feeling when urinating",
+        "Urinating often, and passing small amounts of urine",
+        "Urine that looks cloudy",
+        "Urine that appears red, bright pink or cola-colored \u2014 signs of blood in the urine",
+        "Strong-smelling urine",
+        "Pelvic pain, in women \u2014 especially in the center of the pelvis and around the area of the pubic bone"
+    ],
+    "648.11: Thyroid disease in pregnancy": [
+        "Chest pain, chest tightness, chest pressure and chest discomfort (angina)",
+        "Shortness of breath",
+        "Pain in the neck, jaw, throat, upper belly area or back",
+        "Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in those body areas are narrowed"
+    ],
+    "666.24: Postpartum bleeding": [
+        "Soaking through one or more sanitary pads or tampons every hour for several hours in a row.",
+        "Needing double sanitary protection to control your menstrual flow.",
+        "Getting up at night to change sanitary pads or tampons.",
+        "Bleeding for more than a week.",
+        "Passing blood clots larger than a quarter.",
+        "Limiting daily activities due to heavy menstrual flow.",
+        "Feeling tired, fatigued or short of breath as the result of blood loss."
+    ],
+    "674.04: Generalized anxiety disorder": [
+        "Persistent worrying or anxiety about a number of areas that are out of proportion to the impact of the events",
+        "Overthinking plans and solutions to all possible worst-case outcomes",
+        "Perceiving situations and events as threatening, even when they aren't",
+        "Difficulty handling uncertainty",
+        "Indecisiveness and fear of making the wrong decision",
+        "Inability to set aside or let go of a worry",
+        "Inability to relax, feeling restless, and feeling keyed up or on edge",
+        "Difficulty concentrating, or the feeling that your mind \"goes blank\""
+    ],
+    "691.0: Irritant diaper dermatitis": [
+        "Inflamed\u00a0skin in the diaper area \u2014 buttocks, thighs and genitals.",
+        "Itchy, tender skin in the diaper area.",
+        "Sores in the diaper area.",
+        "Discomfort, fussiness or crying, especially during diaper changes."
+    ],
+    "719.65: Hip": [
+        "Inability to get up from a fall or to walk",
+        "Severe pain in the hip or groin",
+        "Inability to put weight on the leg on the side of the injured hip",
+        "Bruising and swelling in and around the hip area",
+        "Shorter leg on the side of the injured hip",
+        "Outward turning of the leg on the side of the injured hip"
+    ],
+    "733.00: Ehlers\u2013Danlos syndromes": [
+        "Overly flexible joints. Because the connective tissue that holds joints together is looser, your joints can move far past the normal range of motion. Joint pain and dislocations are common.",
+        "Stretchy skin. Weakened connective tissue allows your skin to stretch much more than usual. You may be able to pull a pinch of skin up away from your flesh, but it will snap right back into place when you let go. Your skin might also feel exceptionally soft and velvety.",
+        "Fragile skin. Damaged skin often doesn't heal well. For example, the stitches used to close a wound often will tear out and leave a gaping scar. These scars may look thin and crinkly."
+    ],
+    "747.83: Persistent fetal circulation": [
+        "Distinctive facial features, including small eyes, an exceptionally thin upper lip, a short, upturned nose, and a smooth skin surface between the nose and upper lip",
+        "Deformities of joints, limbs and fingers",
+        "Slow physical growth before and after birth",
+        "Vision difficulties or hearing problems",
+        "Small head circumference and brain size",
+        "Heart defects and problems with kidneys and bones"
+    ],
+    "751.2: Rectal prolapse": [
+        "You cannot control your bowel movements, known as fecal incontinence.",
+        "Constipation or loose stools.",
+        "Leaking blood or mucus from the rectum.",
+        "Feeling that your rectum isn't empty after a bowel movement."
+    ],
+    "756.79: Congenital diaphragmatic hernia": [
+        "Severe trouble breathing due to small lungs that don't work well (pulmonary hypoplasia).",
+        "A type of high blood pressure that affects the arteries in the lungs and the right side of the heart (pulmonary hypertension).",
+        "Problems with development of the heart.",
+        "Damage to the intestines, stomach, liver and other abdominal organs if they move through the hernia into the chest."
+    ],
+    "760.75: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "769: Infant respiratory distress syndrome": [
+        "Fever of 100.5 F (38 C) or higher",
+        "Dry cough",
+        "Shortness of breath"
+    ],
+    "770.0: Pneumonia": [
+        "Chest pain when you breathe or cough",
+        "Confusion or changes in mental awareness (in adults age 65 and older)",
+        "Cough, which may produce phlegm",
+        "Fatigue",
+        "Fever, sweating and shaking chills",
+        "Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)",
+        "Nausea, vomiting or diarrhea",
+        "Shortness of breath"
+    ],
+    "770.12: Respiratory disease": [
+        "Chest pain, chest tightness, chest pressure and chest discomfort (angina)",
+        "Shortness of breath",
+        "Pain in the neck, jaw, throat, upper belly area or back",
+        "Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in those body areas are narrowed"
+    ],
+    "770.2: Emphysema": [
+        "You're so short of breath, you can't climb stairs",
+        "Your lips or fingernails turn blue or gray with exertion",
+        "You're not mentally alert"
+    ],
+    "770.4: Atelectasis": [
+        "Having a hard time breathing.",
+        "Rapid, weak breathing.",
+        "Wheezing.",
+        "Coughing."
+    ],
+    "770.84: Infant respiratory distress syndrome": [
+        "Fever of 100.5 F (38 C) or higher",
+        "Dry cough",
+        "Shortness of breath"
+    ],
+    "771.81: Sepsis": [
+        "Change in mental status.",
+        "Fast, shallow breathing.",
+        "Sweating for no clear reason.",
+        "Feeling lightheaded.",
+        "Shivering.",
+        "Symptoms specific to the type of infection, such as painful urination from a urinary tract infection or worsening cough from pneumonia."
+    ],
+    "775.0: Respiratory disease": [
+        "Chest pain, chest tightness, chest pressure and chest discomfort (angina)",
+        "Shortness of breath",
+        "Pain in the neck, jaw, throat, upper belly area or back",
+        "Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in those body areas are narrowed"
+    ],
+    "775.6: Neonatal hypoglycemia": [
+        "Looking pale (pallor)",
+        "Shakiness",
+        "Dizziness or lightheadedness",
+        "Sweating",
+        "Hunger or nausea",
+        "An irregular or fast heartbeat",
+        "Difficulty concentrating",
+        "Feeling weak and having no energy (fatigue)",
+        "Irritability or anxiety",
+        "Headache",
+        "Tingling or numbness of the lips, tongue or cheek"
+    ],
+    "776.1: Immune thrombocytopenic purpura": [
+        "Easy bruising.",
+        "Bleeding into the skin that looks like tiny reddish-purple spots, also known as petechiae. The spots mostly show up on the lower legs. They look like a rash.",
+        "Bleeding into the skin that's larger than petechiae, also known as purpura.",
+        "Bleeding from the gums or nose.",
+        "Blood in urine or stools.",
+        "Really heavy menstrual flow."
+    ],
+    "776.4: Polycythemia": [
+        "Itchiness, especially after a warm bath or shower",
+        "Numbness, tingling, burning, or weakness in your hands, feet, arms or legs",
+        "A feeling of fullness soon after eating and bloating or pain in your left upper abdomen due to an enlarged spleen",
+        "Unusual bleeding, such as a nosebleed or bleeding gums",
+        "Painful swelling of one joint, often the big toe",
+        "Shortness of breath and difficulty breathing when lying down"
+    ],
+    "778.3: Hypothermia": [
+        "Shivering",
+        "Slurred speech or mumbling",
+        "Slow, shallow breathing",
+        "Weak pulse",
+        "Clumsiness or lack of coordination",
+        "Drowsiness or very low energy",
+        "Confusion or memory loss",
+        "Loss of consciousness",
+        "Bright red, cold skin (in infants)"
+    ],
+    "779.81: Bradycardia": [
+        "Chest pain",
+        "Confusion or memory problems",
+        "Dizziness or lightheadedness",
+        "Easily tiring during physical activity",
+        "Fatigue",
+        "Fainting (syncope) or near-fainting",
+        "Shortness of breath"
+    ],
+    "806.29: Traumatic brain injury": [
+        "Headache",
+        "Nausea or vomiting",
+        "Fatigue or drowsiness",
+        "Problems with speech",
+        "Dizziness or loss of balance"
+    ],
+    "995.91: Sepsis": [
+        "Change in mental status.",
+        "Fast, shallow breathing.",
+        "Sweating for no clear reason.",
+        "Feeling lightheaded.",
+        "Shivering.",
+        "Symptoms specific to the type of infection, such as painful urination from a urinary tract infection or worsening cough from pneumonia."
+    ],
+    "995.92: Sepsis": [
+        "Change in mental status.",
+        "Fast, shallow breathing.",
+        "Sweating for no clear reason.",
+        "Feeling lightheaded.",
+        "Shivering.",
+        "Symptoms specific to the type of infection, such as painful urination from a urinary tract infection or worsening cough from pneumonia."
+    ],
+    "997.1: Tachycardia": [
+        "Sensation of a racing, pounding heartbeat or flopping in the chest (palpitations)",
+        "Chest pain",
+        "Fainting (syncope)",
+        "Lightheadedness",
+        "Rapid pulse rate",
+        "Shortness of breath"
+    ],
+    "998.83: Wound healing": [
+        "Severe pain within a few days after removing a tooth.",
+        "Loss of part or all of the blood clot at the tooth removal site. The socket may look empty.",
+        "Bone that you can see in the socket.",
+        "Pain that spreads from the socket to your ear, eye, temple or neck on the same side of your face as the tooth removal.",
+        "Bad breath or a foul odor coming from your mouth.",
+        "Bad taste in your mouth."
+    ],
+    "V05.3: Hepatitis B": [
+        "Unusual tiredness and weakness",
+        "Sudden nausea and vomiting and diarrhea",
+        "Abdominal pain or discomfort, especially on the upper right side beneath your lower ribs, which is over your liver",
+        "Clay- or gray-colored stool",
+        "Loss of appetite",
+        "Low-grade fever",
+        "Dark urine",
+        "Joint pain",
+        "Yellowing of the skin and the whites of your eyes (jaundice)",
+        "Intense itching"
+    ],
+    "V10.3: Cancer": [
+        "Trouble swallowing",
+        "Belly pain",
+        "Feeling bloated after eating",
+        "Feeling full after eating small amounts of food",
+        "Not feeling hungry when you would expect to be hungry",
+        "Heartburn",
+        "Indigestion",
+        "Nausea",
+        "Vomiting",
+        "Losing weight without trying",
+        "Feeling very tired",
+        "Stools that look black"
+    ],
+    "V10.46: Cancer": [
+        "Trouble swallowing",
+        "Belly pain",
+        "Feeling bloated after eating",
+        "Feeling full after eating small amounts of food",
+        "Not feeling hungry when you would expect to be hungry",
+        "Heartburn",
+        "Indigestion",
+        "Nausea",
+        "Vomiting",
+        "Losing weight without trying",
+        "Feeling very tired",
+        "Stools that look black"
+    ],
+    "V12.51: Deep vein thrombosis": [
+        "Leg swelling",
+        "Leg pain, cramping or soreness that often starts in the calf",
+        "Change in skin color on the leg \u2014 such as red or purple, depending on the color of your skin",
+        "A feeling of warmth on the affected leg"
+    ],
+    "V29.0: Infectious mononucleosis": [
+        "Fatigue",
+        "Sore throat, perhaps misdiagnosed as strep throat, that doesn't get better after treatment with antibiotics",
+        "Fever",
+        "Swollen lymph nodes in your neck and armpits",
+        "Swollen tonsils",
+        "Headache",
+        "Skin rash",
+        "Soft, swollen spleen"
+    ],
+    "V29.3: Metabolic dysfunction\u2013associated steatotic liver disease": [
+        "Low sexual desire. This most common of female sexual dysfunctions involves a lack of sexual interest and willingness to be sexual.",
+        "Sexual arousal disorder. Your desire for sex might be intact, but you have difficulty with arousal or are unable to become aroused or maintain arousal during sexual activity.",
+        "Orgasmic disorder. You have persistent or recurrent difficulty in achieving orgasm after sufficient sexual arousal and ongoing stimulation.",
+        "Sexual pain disorder. You have pain associated with sexual stimulation or vaginal contact."
+    ],
+    "V45.72: Fistula": [
+        "Purplish, bulging veins seen through the skin, similar to varicose veins",
+        "Swelling in the arms or legs",
+        "Decreased blood pressure",
+        "Fatigue",
+        "Heart failure"
+    ],
+    "V45.76: Chronic obstructive pulmonary disease": [
+        "Shortness of breath, especially during physical activities",
+        "Wheezing",
+        "Chest tightness",
+        "A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish",
+        "Frequent respiratory infections",
+        "Lack of energy",
+        "Unintended weight loss (in later stages)",
+        "Swelling in ankles, feet or legs"
+    ],
+    "V58.67: Diabetes": [
+        "Feeling more thirsty than usual.",
+        "Urinating often.",
+        "Losing weight without trying.",
+        "Presence of ketones in the urine. Ketones are a byproduct of the breakdown of muscle and fat that happens when there's not enough available insulin.",
+        "Feeling tired and weak.",
+        "Feeling irritable or having other mood changes.",
+        "Having blurry vision.",
+        "Having slow-healing sores.",
+        "Getting a lot of infections, such as gum, skin and vaginal infections."
+    ],
+    "250.00: Type 2 diabetes": [
+        "Increased thirst.",
+        "Frequent urination.",
+        "Increased hunger.",
+        "Unintended weight loss.",
+        "Fatigue.",
+        "Blurred vision.",
+        "Slow-healing sores.",
+        "Frequent infections.",
+        "Numbness or tingling in the hands or feet.",
+        "Areas of darkened skin, usually in the armpits and neck."
+    ],
+    "276.1: Hyponatremia": [
+        "Nausea and vomiting",
+        "Headache",
+        "Confusion",
+        "Loss of energy, drowsiness and fatigue",
+        "Restlessness and irritability",
+        "Muscle weakness, spasms or cramps",
+        "Seizures",
+        "Coma"
+    ],
+    "284.8: Aplastic anemia": [
+        "Fatigue",
+        "Shortness of breath",
+        "Rapid or irregular heart rate",
+        "Pale skin",
+        "Frequent or prolonged infections",
+        "Unexplained or easy bruising",
+        "Nosebleeds and bleeding gums",
+        "Prolonged bleeding from cuts",
+        "Skin rash",
+        "Dizziness",
+        "Headache",
+        "Fever"
+    ],
+    "343.8: Cerebral palsy": [
+        "Stiff muscles and exaggerated reflexes, known as spasticity. This is the most common movement condition related to cerebral palsy.",
+        "Variations in muscle tone, such as being either too stiff or too floppy.",
+        "Stiff muscles with regular reflexes, known as rigidity.",
+        "Lack of balance and muscle coordination, known as ataxia.",
+        "Jerky movements that can't be controlled, known as tremors.",
+        "Slow, writhing movements.",
+        "Favoring one side of the body, such as only reaching with one hand or dragging a leg while crawling.",
+        "Trouble walking. People with cerebral palsy may walk on their toes or crouch down when they walk. They also may have a scissors-like walk with their knees crossing. Or they may have a wide gait or a walk that's not steady.",
+        "Trouble with fine motor skills, such as buttoning clothes or picking up utensils."
+    ],
+    "410.71: Myocardial infarction": [
+        "Chest pain that may feel like pressure, tightness, pain, squeezing or aching",
+        "Pain or discomfort that spreads to the shoulder, arm, back, neck, jaw, teeth or sometimes the upper belly",
+        "Cold sweat",
+        "Fatigue",
+        "Heartburn or indigestion",
+        "Lightheadedness or sudden dizziness",
+        "Nausea",
+        "Shortness of breath"
+    ],
+    "414.00: Atherosclerosis": [
+        "If you have atherosclerosis in your heart arteries, you may have chest pain or pressure (angina).",
+        "If you have atherosclerosis in the arteries leading to your brain, you may have sudden numbness or weakness in your arms or legs, difficulty speaking or slurred speech, temporary loss of vision in one eye, or drooping muscles in your face. These signal a transient ischemic attack (TIA). Untreated, a TIA can lead to a stroke.",
+        "If you have atherosclerosis in the arteries in your arms and legs, you may have symptoms of peripheral artery disease, such as leg pain when walking (claudication) or decreased blood pressure in an affected limb.",
+        "If you have atherosclerosis in the arteries leading to your kidneys, you may develop high blood pressure or kidney failure."
+    ],
+    "415.11: Pulmonary embolism": [
+        "Shortness of breath. This symptom usually appears suddenly. Trouble catching your breath happens even when resting and gets worse with physical activity.",
+        "Chest pain. You may feel like you're having a heart attack. The pain is often sharp and felt when you breathe in deeply. The pain can stop you from being able to take a deep breath. You also may feel it when you cough, bend or lean over.",
+        "Fainting. You may pass out if your heart rate or blood pressure drops suddenly. This is called syncope."
+    ],
+    "427.89: Arrhythmia": [
+        "A fluttering, pounding or racing feeling in the chest.",
+        "A fast heartbeat.",
+        "A slow heartbeat.",
+        "Chest pain.",
+        "Shortness of breath."
+    ],
+    "493.90: Asthma": [
+        "Wheezing, sometimes just at night",
+        "Coughing",
+        "Shortness of breath",
+        "Chest tightness"
+    ],
+    "536.2: Vomiting": [
+        "Three or more recurrent episodes of vomiting that start around the same time and last for a similar length of time",
+        "Varying intervals of generally normal health without nausea between episodes",
+        "Intense nausea and sweating before an episode starts"
+    ],
+    "564.89: Functional gastrointestinal disorder": [
+        "Vomiting blood, which might be red or might be dark brown and look like coffee grounds.",
+        "Black, tarry stool.",
+        "Rectal bleeding, usually in or with stool."
+    ],
+    "577.8: Pancreatic disease": [
+        "Dark urine",
+        "Pale stools or stools that float in the toilet",
+        "Yellow skin and eyes (jaundice)",
+        "Pain in your upper abdomen or middle part of your back",
+        "Nausea and vomiting",
+        "Weakness or extreme tiredness",
+        "Loss of appetite or feelings of fullness",
+        "Weight loss for no known reason"
+    ],
+    "599.0: Urinary tract infection": [
+        "A strong urge to urinate that doesn't go away",
+        "A burning feeling when urinating",
+        "Urinating often, and passing small amounts of urine",
+        "Urine that looks cloudy",
+        "Urine that appears red, bright pink or cola-colored \u2014 signs of blood in the urine",
+        "Strong-smelling urine",
+        "Pelvic pain, in women \u2014 especially in the center of the pelvis and around the area of the pubic bone"
+    ],
+    "741.00: Spina bifida": [
+        "Spina bifida occulta. Typically, there aren't any signs or symptoms because the spinal nerves aren't involved. But you can sometimes see signs on the newborn's skin above the spinal problem, including a tuft of hair, a small dimple or a birthmark. Sometimes, these skin marks can be signs of an underlying spinal cord issue that can be discovered with MRI or spinal ultrasound in a newborn.",
+        "Meningocele. This type may cause problems with bladder and bowel function.",
+        "Myelomeningocele. In this severe type of spina bifida:",
+        "\nThe spinal canal remains open along several vertebrae in the lower or middle back\nBoth the membranes and the spinal cord or nerves protrude at birth, forming a sac\nTissues and nerves usually are exposed, though sometimes skin covers the sac\n"
+    ],
+    "765.02: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.03: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.15: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.16: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.17: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.18: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.26: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "765.28: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "771.82: Urinary tract infection": [
+        "A strong urge to urinate that doesn't go away",
+        "A burning feeling when urinating",
+        "Urinating often, and passing small amounts of urine",
+        "Urine that looks cloudy",
+        "Urine that appears red, bright pink or cola-colored \u2014 signs of blood in the urine",
+        "Strong-smelling urine",
+        "Pelvic pain, in women \u2014 especially in the center of the pelvis and around the area of the pubic bone"
+    ],
+    "775.5: Hyponatremia": [
+        "Nausea and vomiting",
+        "Headache",
+        "Confusion",
+        "Loss of energy, drowsiness and fatigue",
+        "Restlessness and irritability",
+        "Muscle weakness, spasms or cramps",
+        "Seizures",
+        "Coma"
+    ],
+    "779.89: Complications of pregnancy": [
+        "Yellowing of the skin and whites of the eyes, called jaundice",
+        "Nausea",
+        "Loss of appetite",
+        "Oily, foul-smelling stools"
+    ],
+    "909.2: Acute radiation syndrome": [
+        "Nausea and vomiting",
+        "Diarrhea",
+        "Headache",
+        "Fever",
+        "Dizziness and disorientation",
+        "Weakness and fatigue",
+        "Hair loss",
+        "Bloody vomit and stools from internal bleeding",
+        "Infections",
+        "Low blood pressure"
+    ],
+    "998.11: Bleeding": [
+        "Soaking through one or more sanitary pads or tampons every hour for several hours in a row.",
+        "Needing double sanitary protection to control your menstrual flow.",
+        "Getting up at night to change sanitary pads or tampons.",
+        "Bleeding for more than a week.",
+        "Passing blood clots larger than a quarter.",
+        "Limiting daily activities due to heavy menstrual flow.",
+        "Feeling tired, fatigued or short of breath as the result of blood loss."
+    ],
+    "998.12: Hematoma": [
+        "Headache that gets worse",
+        "Vomiting",
+        "Drowsiness and progressive loss of consciousness",
+        "Dizziness",
+        "Confusion",
+        "Unequal pupil size",
+        "Slurred speech",
+        "Loss of movement (paralysis) on the opposite side of the body from the head injury"
+    ],
+    "038.9: Sepsis": [
+        "Change in mental status.",
+        "Fast, shallow breathing.",
+        "Sweating for no clear reason.",
+        "Feeling lightheaded.",
+        "Shivering.",
+        "Symptoms specific to the type of infection, such as painful urination from a urinary tract infection or worsening cough from pneumonia."
+    ],
+    "244.9: Hypothyroidism": [
+        "Tiredness.",
+        "More sensitivity to cold.",
+        "Constipation.",
+        "Dry skin.",
+        "Weight gain.",
+        "Puffy face.",
+        "Hoarse voice.",
+        "Coarse hair and skin.",
+        "Muscle weakness.",
+        "Muscle aches, tenderness and stiffness.",
+        "Menstrual cycles that are heavier than usual or irregular.",
+        "Thinning hair.",
+        "Slowed heart rate, also called bradycardia.",
+        "Depression.",
+        "Memory problems."
+    ],
+    "272.0: Hypercholesterolemia": [
+        "Skin. The most common spots for cholesterol deposits to occur is on the hands, elbows and knees. They also can occur in the skin around the eyes.",
+        "Tendons. Cholesterol deposits may thicken the Achilles tendon, along with some tendons in the hands.",
+        "Eyes. High cholesterol levels can cause corneal arcus, a white or gray ring around the iris of the eye. This happens most commonly in older people, but it can occur in younger people who have familial hypercholesterolemia."
+    ],
+    "287.5: Thrombocytopenia": [
+        "Easy or excessive bruising (purpura)",
+        "Superficial bleeding into the skin that appears as a rash of pinpoint-sized reddish-purple spots (petechiae), usually on the lower legs",
+        "Prolonged bleeding from cuts",
+        "Bleeding from your gums or nose",
+        "Blood in urine or stools",
+        "Unusually heavy menstrual flows",
+        "Fatigue",
+        "Enlarged spleen"
+    ],
+    "300.00: Anxiety disorder": [
+        "Persistent worrying or anxiety about a number of areas that are out of proportion to the impact of the events",
+        "Overthinking plans and solutions to all possible worst-case outcomes",
+        "Perceiving situations and events as threatening, even when they aren't",
+        "Difficulty handling uncertainty",
+        "Indecisiveness and fear of making the wrong decision",
+        "Inability to set aside or let go of a worry",
+        "Inability to relax, feeling restless, and feeling keyed up or on edge",
+        "Difficulty concentrating, or the feeling that your mind \"goes blank\""
+    ],
+    "428.0: Heart failure": [
+        "Shortness of breath with activity or when lying down.",
+        "Fatigue and weakness.",
+        "Swelling in the legs, ankles and feet.",
+        "Rapid or irregular heartbeat.",
+        "Reduced ability to exercise.",
+        "Wheezing.",
+        "A cough that doesn't go away or a cough that brings up white or pink mucus with spots of blood.",
+        "Swelling of the belly area.",
+        "Very rapid weight gain from fluid buildup.",
+        "Nausea and lack of appetite.",
+        "Difficulty concentrating or decreased alertness.",
+        "Chest pain if heart failure is caused by a heart attack."
+    ],
+    "443.9: Peripheral artery disease": [
+        "Coldness in the lower leg or foot, especially when compared with the other side",
+        "Leg numbness or weakness",
+        "No pulse or a weak pulse in the legs or feet",
+        "Painful cramping in one or both of the hips, thighs or calf muscles after certain activities, such as walking or climbing stairs",
+        "Shiny skin on the legs",
+        "Skin color changes on the legs",
+        "Slower growth of the toenails",
+        "Sores on the toes, feet or legs that won't heal",
+        "Pain when using the arms, such as aching and cramping when knitting, writing or doing other manual tasks",
+        "Erectile dysfunction",
+        "Hair loss or slower hair growth on the legs"
+    ],
+    "458.9: Hypertension": [
+        "Headaches",
+        "Shortness of breath",
+        "Nosebleeds"
+    ],
+    "459.0: Bleeding": [
+        "Soaking through one or more sanitary pads or tampons every hour for several hours in a row.",
+        "Needing double sanitary protection to control your menstrual flow.",
+        "Getting up at night to change sanitary pads or tampons.",
+        "Bleeding for more than a week.",
+        "Passing blood clots larger than a quarter.",
+        "Limiting daily activities due to heavy menstrual flow.",
+        "Feeling tired, fatigued or short of breath as the result of blood loss."
+    ],
+    "515: Pulmonary fibrosis": [
+        "Shortness of breath (dyspnea)",
+        "A dry cough",
+        "Fatigue",
+        "Unexplained weight loss",
+        "Aching muscles and joints",
+        "Widening and rounding of the tips of the fingers or toes (clubbing)"
+    ],
+    "578.9: Gastrointestinal bleeding": [
+        "Vomiting blood, which might be red or might be dark brown and look like coffee grounds.",
+        "Black, tarry stool.",
+        "Rectal bleeding, usually in or with stool."
+    ],
+    "644.21: Preterm birth": [
+        "Small size, with a head that's large compared with the body. ",
+        "Features that are sharper and less rounded than a full-term baby's features due to a lack of cells that store fat. ",
+        "Fine hair that covers much of the body.",
+        "Low body temperature, mainly right after birth in the delivery room.",
+        "Trouble breathing.",
+        "Feeding problems."
+    ],
+    "648.91: Complications of pregnancy": [
+        "Yellowing of the skin and whites of the eyes, called jaundice",
+        "Nausea",
+        "Loss of appetite",
+        "Oily, foul-smelling stools"
+    ],
+    "775.9: Complications of pregnancy": [
+        "Yellowing of the skin and whites of the eyes, called jaundice",
+        "Nausea",
+        "Loss of appetite",
+        "Oily, foul-smelling stools"
+    ],
+    "E942.9: Cardiovascular disease": [
+        "Chest pain, chest tightness, chest pressure and chest discomfort (angina)",
+        "Shortness of breath",
+        "Pain in the neck, jaw, throat, upper belly area or back",
+        "Pain, numbness, weakness or coldness in the legs or arms if the blood vessels in those body areas are narrowed"
+    ],
+    "427.5: Cardiac arrest": [
+        "Sudden collapse.",
+        "No pulse.",
+        "No breathing.",
+        "Loss of consciousness."
+    ],
+    "285.9: Anemia": [
+        "Fatigue",
+        "Shortness of breath",
+        "Dizziness",
+        "Pale or yellowish skin",
+        "Irregular heartbeats",
+        "Weight loss",
+        "Numbness or tingling in the hands and feet",
+        "Muscle weakness",
+        "Personality changes",
+        "Unsteady movements",
+        "Mental confusion or forgetfulness"
+    ]
+}

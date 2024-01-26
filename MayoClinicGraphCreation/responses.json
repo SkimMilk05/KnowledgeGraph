@@ -1,0 +1,542 @@
+{
+    "008.45: Clostridioides difficile infection": [
+        "https://www.mayoclinic.org/diseases-conditions/c-difficile/symptoms-causes/syc-20351691",
+        "https://www.mayoclinic.org/diseases-conditions/c-difficile/diagnosis-treatment/drc-20351697"
+    ],
+    "238.4: Polycythemia vera": [
+        "https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850",
+        "https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/diagnosis-treatment/drc-20355855"
+    ],
+    "276.51: Dehydration": [
+        "https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086",
+        "https://www.mayoclinic.org/diseases-conditions/dehydration/diagnosis-treatment/drc-20354092"
+    ],
+    "277.39: Amyloidosis": [
+        "https://www.mayoclinic.org/diseases-conditions/amyloidosis/symptoms-causes/syc-20353178",
+        "https://www.mayoclinic.org/diseases-conditions/amyloidosis/diagnosis-treatment/drc-20353183"
+    ],
+    "285.21: Chronic kidney disease": [
+        "https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521",
+        "https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/diagnosis-treatment/drc-20354527"
+    ],
+    "289.59: Wandering spleen": [
+        "https://www.mayoclinic.org/diseases-conditions/ruptured-spleen/symptoms-causes/syc-20352317",
+        "https://www.mayoclinic.org/diseases-conditions/ruptured-spleen/diagnosis-treatment/drc-20352322"
+    ],
+    "293.0: Impulse-control disorder": [
+        "https://www.mayoclinic.org/diseases-conditions/kleptomania/symptoms-causes/syc-20364732",
+        "https://www.mayoclinic.org/diseases-conditions/kleptomania/diagnosis-treatment/drc-20364753"
+    ],
+    "305.1: Nicotine dependence": [
+        "https://www.mayoclinic.org/diseases-conditions/nicotine-dependence/symptoms-causes/syc-20351584",
+        "https://www.mayoclinic.org/diseases-conditions/nicotine-dependence/diagnosis-treatment/drc-20351590"
+    ],
+    "311: Impulse-control disorder": [
+        "https://www.mayoclinic.org/diseases-conditions/kleptomania/symptoms-causes/syc-20364732",
+        "https://www.mayoclinic.org/diseases-conditions/kleptomania/diagnosis-treatment/drc-20364753"
+    ],
+    "327.23: Obstructive sleep apnea": [
+        "https://www.mayoclinic.org/diseases-conditions/obstructive-sleep-apnea/symptoms-causes/syc-20352090",
+        "https://www.mayoclinic.org/diseases-conditions/obstructive-sleep-apnea/diagnosis-treatment/drc-20352095"
+    ],
+    "348.39: Encephalopathy": [
+        "https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921",
+        "https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/diagnosis-treatment/drc-20370925"
+    ],
+    "357.2: Polyneuropathy": [
+        "https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/symptoms-causes/syc-20362793",
+        "https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/diagnosis-treatment/drc-20363006"
+    ],
+    "357.82: Critical illness polyneuropathy": [
+        "https://www.mayoclinic.org/diseases-conditions/mental-illness/symptoms-causes/syc-20374968",
+        "https://www.mayoclinic.org/diseases-conditions/mental-illness/diagnosis-treatment/drc-20374974"
+    ],
+    "401.9: Pulmonary hypertension": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/symptoms-causes/syc-20350697",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/diagnosis-treatment/drc-20350702"
+    ],
+    "412: Myocardial infarction diagnosis": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+        "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
+    ],
+    "414.01: Coronary artery bypass surgery": [
+        "https://www.mayoclinic.org/diseases-conditions/carotid-artery-disease/symptoms-causes/syc-20360519",
+        "https://www.mayoclinic.org/diseases-conditions/carotid-artery-disease/diagnosis-treatment/drc-20360527"
+    ],
+    "415.0: Pulmonary heart disease": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/symptoms-causes/syc-20350697",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/diagnosis-treatment/drc-20350702"
+    ],
+    "416.8: Pulmonary heart disease": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/symptoms-causes/syc-20350697",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/diagnosis-treatment/drc-20350702"
+    ],
+    "416.9: Chronic obstructive pulmonary disease": [
+        "https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679",
+        "https://www.mayoclinic.org/diseases-conditions/copd/diagnosis-treatment/drc-20353685"
+    ],
+    "424.0: Valvular heart disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-valve-disease/symptoms-causes/syc-20353727",
+        "https://www.mayoclinic.org/diseases-conditions/heart-valve-disease/diagnosis-treatment/drc-20353732"
+    ],
+    "424.1: Valvular heart disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-valve-disease/symptoms-causes/syc-20353727",
+        "https://www.mayoclinic.org/diseases-conditions/heart-valve-disease/diagnosis-treatment/drc-20353732"
+    ],
+    "425.4: Cardiomyopathy": [
+        "https://www.mayoclinic.org/diseases-conditions/hypertrophic-cardiomyopathy/symptoms-causes/syc-20350198",
+        "https://www.mayoclinic.org/diseases-conditions/hypertrophic-cardiomyopathy/diagnosis-treatment/drc-20350204"
+    ],
+    "427.1: Ventricular tachycardia": [
+        "https://www.mayoclinic.org/diseases-conditions/ventricular-tachycardia/symptoms-causes/syc-20355138",
+        "https://www.mayoclinic.org/diseases-conditions/ventricular-tachycardia/diagnosis-treatment/drc-20355144"
+    ],
+    "427.31: Atrial fibrillation": [
+        "https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624",
+        "https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/diagnosis-treatment/drc-20350630"
+    ],
+    "428.23: Heart failure": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142",
+        "https://www.mayoclinic.org/diseases-conditions/heart-failure/diagnosis-treatment/drc-20373148"
+    ],
+    "428.32: Heart failure with preserved ejection fraction": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142",
+        "https://www.mayoclinic.org/diseases-conditions/heart-failure/diagnosis-treatment/drc-20373148"
+    ],
+    "430: Subarachnoid hemorrhage": [
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/symptoms-causes/syc-20361009",
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/diagnosis-treatment/drc-20361014"
+    ],
+    "431: Intracerebral hemorrhage": [
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/symptoms-causes/syc-20361009",
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/diagnosis-treatment/drc-20361014"
+    ],
+    "437.0: Cerebral atherosclerosis": [
+        "https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/symptoms-causes/syc-20350569",
+        "https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/diagnosis-treatment/drc-20350575"
+    ],
+    "458.29: Cerebrospinal fluid leak": [
+        "https://www.mayoclinic.org/diseases-conditions/csf-leak/symptoms-causes/syc-20522246",
+        "https://www.mayoclinic.org/diseases-conditions/csf-leak/diagnosis-treatment/drc-20522247"
+    ],
+    "482.9: Bacterial pneumonia": [
+        "https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204",
+        "https://www.mayoclinic.org/diseases-conditions/pneumonia/diagnosis-treatment/drc-20354210"
+    ],
+    "486: Mycoplasma pneumonia": [
+        "https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204",
+        "https://www.mayoclinic.org/diseases-conditions/pneumonia/diagnosis-treatment/drc-20354210"
+    ],
+    "491.8: Bronchitis": [
+        "https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566",
+        "https://www.mayoclinic.org/diseases-conditions/bronchitis/diagnosis-treatment/drc-20355572"
+    ],
+    "496: Chronic obstructive pulmonary disease": [
+        "https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679",
+        "https://www.mayoclinic.org/diseases-conditions/copd/diagnosis-treatment/drc-20353685"
+    ],
+    "511.9: Pleural effusion": [
+        "https://www.mayoclinic.org/diseases-conditions/pericardial-effusion/symptoms-causes/syc-20353720",
+        "https://www.mayoclinic.org/diseases-conditions/pericardial-effusion/diagnosis-treatment/drc-20353724"
+    ],
+    "518.0: Pulmonary embolism": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-embolism/symptoms-causes/syc-20354647",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-embolism/diagnosis-treatment/drc-20354653"
+    ],
+    "518.81: Respiratory failure": [
+        "https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576",
+        "https://www.mayoclinic.org/diseases-conditions/ards/diagnosis-treatment/drc-20355581"
+    ],
+    "518.83: Respiratory failure": [
+        "https://www.mayoclinic.org/diseases-conditions/ards/symptoms-causes/syc-20355576",
+        "https://www.mayoclinic.org/diseases-conditions/ards/diagnosis-treatment/drc-20355581"
+    ],
+    "519.4: Pelvic floor": [
+        "https://www.mayoclinic.org/diseases-conditions/uterine-prolapse/symptoms-causes/syc-20353458",
+        "https://www.mayoclinic.org/diseases-conditions/uterine-prolapse/diagnosis-treatment/drc-20353464"
+    ],
+    "530.81: Gastroesophageal reflux disease": [
+        "https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940",
+        "https://www.mayoclinic.org/diseases-conditions/gerd/diagnosis-treatment/drc-20361959"
+    ],
+    "530.82: Esophageal varices": [
+        "https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538",
+        "https://www.mayoclinic.org/diseases-conditions/esophageal-varices/diagnosis-treatment/drc-20351544"
+    ],
+    "536.3: Gastroparesis": [
+        "https://www.mayoclinic.org/diseases-conditions/gastroparesis/symptoms-causes/syc-20355787",
+        "https://www.mayoclinic.org/diseases-conditions/gastroparesis/diagnosis-treatment/drc-20355792"
+    ],
+    "571.2: Cirrhosis": [
+        "https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487",
+        "https://www.mayoclinic.org/diseases-conditions/cirrhosis/diagnosis-treatment/drc-20351492"
+    ],
+    "576.1: Ascending cholangitis": [
+        "https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/symptoms-causes/syc-20355797",
+        "https://www.mayoclinic.org/diseases-conditions/primary-sclerosing-cholangitis/diagnosis-treatment/drc-20355802"
+    ],
+    "576.2: Cholestasis": [
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/symptoms-causes/syc-20363257",
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/diagnosis-treatment/drc-20363258"
+    ],
+    "584.9: Pulmonary edema": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/diagnosis-treatment/drc-20377014"
+    ],
+    "585.6: Chronic kidney disease": [
+        "https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521",
+        "https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/diagnosis-treatment/drc-20354527"
+    ],
+    "585.9: Chronic obstructive pulmonary disease": [
+        "https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679",
+        "https://www.mayoclinic.org/diseases-conditions/copd/diagnosis-treatment/drc-20353685"
+    ],
+    "600.00: Lower urinary tract symptoms": [
+        "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447",
+        "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/diagnosis-treatment/drc-20353453"
+    ],
+    "648.11: Thyroid disease in pregnancy": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118",
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+    ],
+    "666.24: Postpartum bleeding": [
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/symptoms-causes/syc-20352829",
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/diagnosis-treatment/drc-20352834"
+    ],
+    "674.04: Generalized anxiety disorder": [
+        "https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803",
+        "https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/diagnosis-treatment/drc-20361045"
+    ],
+    "691.0: Irritant diaper dermatitis": [
+        "https://www.mayoclinic.org/diseases-conditions/diaper-rash/symptoms-causes/syc-20371636",
+        "https://www.mayoclinic.org/diseases-conditions/diaper-rash/diagnosis-treatment/drc-20371641"
+    ],
+    "719.65: Hip": [
+        "https://www.mayoclinic.org/diseases-conditions/hip-fracture/symptoms-causes/syc-20373468",
+        "https://www.mayoclinic.org/diseases-conditions/hip-fracture/diagnosis-treatment/drc-20373472"
+    ],
+    "733.00: Ehlers\u2013Danlos syndromes": [
+        "https://www.mayoclinic.org/diseases-conditions/ehlers-danlos-syndrome/symptoms-causes/syc-20362125",
+        "https://www.mayoclinic.org/diseases-conditions/ehlers-danlos-syndrome/diagnosis-treatment/drc-20362149"
+    ],
+    "747.83: Persistent fetal circulation": [
+        "https://www.mayoclinic.org/diseases-conditions/fetal-alcohol-syndrome/symptoms-causes/syc-20352901",
+        "https://www.mayoclinic.org/diseases-conditions/fetal-alcohol-syndrome/diagnosis-treatment/drc-20352907"
+    ],
+    "751.2: Rectal prolapse": [
+        "https://www.mayoclinic.org/diseases-conditions/rectal-prolapse/symptoms-causes/syc-20352837",
+        "https://www.mayoclinic.org/diseases-conditions/rectal-prolapse/diagnosis-treatment/drc-20450472"
+    ],
+    "756.79: Congenital diaphragmatic hernia": [
+        "https://www.mayoclinic.org/diseases-conditions/congenital-diaphragmatic-hernia/symptoms-causes/syc-20544249",
+        "https://www.mayoclinic.org/diseases-conditions/congenital-diaphragmatic-hernia/diagnosis-treatment/drc-20544259"
+    ],
+    "760.75: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "769: Infant respiratory distress syndrome": [
+        "https://www.mayoclinic.org/diseases-conditions/sars/symptoms-causes/syc-20351765",
+        "https://www.mayoclinic.org/diseases-conditions/sars/diagnosis-treatment/drc-20351771"
+    ],
+    "770.0: Pneumonia": [
+        "https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204",
+        "https://www.mayoclinic.org/diseases-conditions/pneumonia/diagnosis-treatment/drc-20354210"
+    ],
+    "770.12: Respiratory disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118",
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+    ],
+    "770.2: Emphysema": [
+        "https://www.mayoclinic.org/diseases-conditions/emphysema/symptoms-causes/syc-20355555",
+        "https://www.mayoclinic.org/diseases-conditions/emphysema/diagnosis-treatment/drc-20355561"
+    ],
+    "770.4: Atelectasis": [
+        "https://www.mayoclinic.org/diseases-conditions/atelectasis/symptoms-causes/syc-20369684",
+        "https://www.mayoclinic.org/diseases-conditions/atelectasis/diagnosis-treatment/drc-20369688"
+    ],
+    "770.84: Infant respiratory distress syndrome": [
+        "https://www.mayoclinic.org/diseases-conditions/sars/symptoms-causes/syc-20351765",
+        "https://www.mayoclinic.org/diseases-conditions/sars/diagnosis-treatment/drc-20351771"
+    ],
+    "771.81: Sepsis": [
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214",
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/diagnosis-treatment/drc-20351219"
+    ],
+    "775.0: Respiratory disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118",
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+    ],
+    "775.6: Neonatal hypoglycemia": [
+        "https://www.mayoclinic.org/diseases-conditions/diabetic-hypoglycemia/symptoms-causes/syc-20371525",
+        "https://www.mayoclinic.org/diseases-conditions/diabetic-hypoglycemia/diagnosis-treatment/drc-20371529"
+    ],
+    "776.1: Immune thrombocytopenic purpura": [
+        "https://www.mayoclinic.org/diseases-conditions/idiopathic-thrombocytopenic-purpura/symptoms-causes/syc-20352325",
+        "https://www.mayoclinic.org/diseases-conditions/idiopathic-thrombocytopenic-purpura/diagnosis-treatment/drc-20352330"
+    ],
+    "776.4: Polycythemia": [
+        "https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850",
+        "https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/diagnosis-treatment/drc-20355855"
+    ],
+    "778.3: Hypothermia": [
+        "https://www.mayoclinic.org/diseases-conditions/hypothermia/symptoms-causes/syc-20352682",
+        "https://www.mayoclinic.org/diseases-conditions/hypothermia/diagnosis-treatment/drc-20352688"
+    ],
+    "779.81: Bradycardia": [
+        "https://www.mayoclinic.org/diseases-conditions/bradycardia/symptoms-causes/syc-20355474",
+        "https://www.mayoclinic.org/diseases-conditions/bradycardia/diagnosis-treatment/drc-20355480"
+    ],
+    "806.29: Traumatic brain injury": [
+        "https://www.mayoclinic.org/diseases-conditions/traumatic-brain-injury/symptoms-causes/syc-20378557",
+        "https://www.mayoclinic.org/diseases-conditions/traumatic-brain-injury/diagnosis-treatment/drc-20378561"
+    ],
+    "995.91: Sepsis": [
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214",
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/diagnosis-treatment/drc-20351219"
+    ],
+    "995.92: Sepsis": [
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214",
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/diagnosis-treatment/drc-20351219"
+    ],
+    "997.1: Tachycardia": [
+        "https://www.mayoclinic.org/diseases-conditions/tachycardia/symptoms-causes/syc-20355127",
+        "https://www.mayoclinic.org/diseases-conditions/tachycardia/diagnosis-treatment/drc-20355133"
+    ],
+    "998.83: Wound healing": [
+        "https://www.mayoclinic.org/diseases-conditions/dry-socket/symptoms-causes/syc-20354376",
+        "https://www.mayoclinic.org/diseases-conditions/dry-socket/diagnosis-treatment/drc-20354382"
+    ],
+    "V05.3: Hepatitis B": [
+        "https://www.mayoclinic.org/diseases-conditions/hepatitis-a/symptoms-causes/syc-20367007",
+        "https://www.mayoclinic.org/diseases-conditions/hepatitis-a/diagnosis-treatment/drc-20367055"
+    ],
+    "V10.3: Cancer": [
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438",
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443"
+    ],
+    "V10.46: Cancer": [
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438",
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443"
+    ],
+    "V12.51: Deep vein thrombosis": [
+        "https://www.mayoclinic.org/diseases-conditions/deep-vein-thrombosis/symptoms-causes/syc-20352557",
+        "https://www.mayoclinic.org/diseases-conditions/deep-vein-thrombosis/diagnosis-treatment/drc-20352563"
+    ],
+    "V29.0: Infectious mononucleosis": [
+        "https://www.mayoclinic.org/diseases-conditions/mononucleosis/symptoms-causes/syc-20350328",
+        "https://www.mayoclinic.org/diseases-conditions/mononucleosis/diagnosis-treatment/drc-20350333"
+    ],
+    "V29.3: Metabolic dysfunction\u2013associated steatotic liver disease": [
+        "https://www.mayoclinic.org/diseases-conditions/female-sexual-dysfunction/symptoms-causes/syc-20372549",
+        "https://www.mayoclinic.org/diseases-conditions/female-sexual-dysfunction/diagnosis-treatment/drc-20372556"
+    ],
+    "V45.72: Fistula": [
+        "https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567",
+        "https://www.mayoclinic.org/diseases-conditions/arteriovenous-fistula/diagnosis-treatment/drc-20369571"
+    ],
+    "V45.76: Chronic obstructive pulmonary disease": [
+        "https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679",
+        "https://www.mayoclinic.org/diseases-conditions/copd/diagnosis-treatment/drc-20353685"
+    ],
+    "V58.67: Diabetes": [
+        "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+        "https://www.mayoclinic.org/diseases-conditions/diabetes/diagnosis-treatment/drc-20371451"
+    ],
+    "250.00: Type 2 diabetes": [
+        "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193",
+        "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199"
+    ],
+    "276.1: Hyponatremia": [
+        "https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711",
+        "https://www.mayoclinic.org/diseases-conditions/hyponatremia/diagnosis-treatment/drc-20373715"
+    ],
+    "284.8: Aplastic anemia": [
+        "https://www.mayoclinic.org/diseases-conditions/aplastic-anemia/symptoms-causes/syc-20355015",
+        "https://www.mayoclinic.org/diseases-conditions/aplastic-anemia/diagnosis-treatment/drc-20355020"
+    ],
+    "343.8: Cerebral palsy": [
+        "https://www.mayoclinic.org/diseases-conditions/cerebral-palsy/symptoms-causes/syc-20353999",
+        "https://www.mayoclinic.org/diseases-conditions/cerebral-palsy/diagnosis-treatment/drc-20354005"
+    ],
+    "410.71: Myocardial infarction": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+        "https://www.mayoclinic.org/diseases-conditions/heart-attack/diagnosis-treatment/drc-20373112"
+    ],
+    "414.00: Atherosclerosis": [
+        "https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/symptoms-causes/syc-20350569",
+        "https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/diagnosis-treatment/drc-20350575"
+    ],
+    "415.11: Pulmonary embolism": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-embolism/symptoms-causes/syc-20354647",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-embolism/diagnosis-treatment/drc-20354653"
+    ],
+    "427.89: Arrhythmia": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/symptoms-causes/syc-20350668",
+        "https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/diagnosis-treatment/drc-20350674"
+    ],
+    "493.90: Asthma": [
+        "https://www.mayoclinic.org/diseases-conditions/occupational-asthma/symptoms-causes/syc-20375772",
+        "https://www.mayoclinic.org/diseases-conditions/occupational-asthma/diagnosis-treatment/drc-20375777"
+    ],
+    "536.2: Vomiting": [
+        "https://www.mayoclinic.org/diseases-conditions/cyclic-vomiting-syndrome/symptoms-causes/syc-20352161",
+        "https://www.mayoclinic.org/diseases-conditions/cyclic-vomiting-syndrome/diagnosis-treatment/drc-20352167"
+    ],
+    "564.89: Functional gastrointestinal disorder": [
+        "https://www.mayoclinic.org/diseases-conditions/gastrointestinal-bleeding/symptoms-causes/syc-20372729",
+        "https://www.mayoclinic.org/diseases-conditions/gastrointestinal-bleeding/diagnosis-treatment/drc-20372732"
+    ],
+    "577.8: Pancreatic disease": [
+        "https://www.mayoclinic.org/diseases-conditions/autoimmune-pancreatitis/symptoms-causes/syc-20369800",
+        "https://www.mayoclinic.org/diseases-conditions/autoimmune-pancreatitis/diagnosis-treatment/drc-20369804"
+    ],
+    "599.0: Urinary tract infection": [
+        "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447",
+        "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/diagnosis-treatment/drc-20353453"
+    ],
+    "741.00: Spina bifida": [
+        "https://www.mayoclinic.org/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860",
+        "https://www.mayoclinic.org/diseases-conditions/spina-bifida/diagnosis-treatment/drc-20377865"
+    ],
+    "765.02: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.03: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.15: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.16: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.17: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.18: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.26: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "765.28: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "771.82: Urinary tract infection": [
+        "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447",
+        "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/diagnosis-treatment/drc-20353453"
+    ],
+    "775.5: Hyponatremia": [
+        "https://www.mayoclinic.org/diseases-conditions/hyponatremia/symptoms-causes/syc-20373711",
+        "https://www.mayoclinic.org/diseases-conditions/hyponatremia/diagnosis-treatment/drc-20373715"
+    ],
+    "779.89: Complications of pregnancy": [
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/symptoms-causes/syc-20363257",
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/diagnosis-treatment/drc-20363258"
+    ],
+    "909.2: Acute radiation syndrome": [
+        "https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058",
+        "https://www.mayoclinic.org/diseases-conditions/radiation-sickness/diagnosis-treatment/drc-20377061"
+    ],
+    "998.11: Bleeding": [
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/symptoms-causes/syc-20352829",
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/diagnosis-treatment/drc-20352834"
+    ],
+    "998.12: Hematoma": [
+        "https://www.mayoclinic.org/diseases-conditions/intracranial-hematoma/symptoms-causes/syc-20356145",
+        "https://www.mayoclinic.org/diseases-conditions/intracranial-hematoma/diagnosis-treatment/drc-20356149"
+    ],
+    "038.9: Sepsis": [
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214",
+        "https://www.mayoclinic.org/diseases-conditions/sepsis/diagnosis-treatment/drc-20351219"
+    ],
+    "244.9: Hypothyroidism": [
+        "https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284",
+        "https://www.mayoclinic.org/diseases-conditions/hypothyroidism/diagnosis-treatment/drc-20350289"
+    ],
+    "272.0: Hypercholesterolemia": [
+        "https://www.mayoclinic.org/diseases-conditions/familial-hypercholesterolemia/symptoms-causes/syc-20353755",
+        "https://www.mayoclinic.org/diseases-conditions/familial-hypercholesterolemia/diagnosis-treatment/drc-20353757"
+    ],
+    "287.5: Thrombocytopenia": [
+        "https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/symptoms-causes/syc-20378293",
+        "https://www.mayoclinic.org/diseases-conditions/thrombocytopenia/diagnosis-treatment/drc-20378298"
+    ],
+    "300.00: Anxiety disorder": [
+        "https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/symptoms-causes/syc-20360803",
+        "https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/diagnosis-treatment/drc-20361045"
+    ],
+    "428.0: Heart failure": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142",
+        "https://www.mayoclinic.org/diseases-conditions/heart-failure/diagnosis-treatment/drc-20373148"
+    ],
+    "443.9: Peripheral artery disease": [
+        "https://www.mayoclinic.org/diseases-conditions/peripheral-artery-disease/symptoms-causes/syc-20350557",
+        "https://www.mayoclinic.org/diseases-conditions/peripheral-artery-disease/diagnosis-treatment/drc-20350563"
+    ],
+    "458.9: Hypertension": [
+        "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+        "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417"
+    ],
+    "459.0: Bleeding": [
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/symptoms-causes/syc-20352829",
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/diagnosis-treatment/drc-20352834"
+    ],
+    "515: Pulmonary fibrosis": [
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690",
+        "https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/diagnosis-treatment/drc-20353695"
+    ],
+    "578.9: Gastrointestinal bleeding": [
+        "https://www.mayoclinic.org/diseases-conditions/gastrointestinal-bleeding/symptoms-causes/syc-20372729",
+        "https://www.mayoclinic.org/diseases-conditions/gastrointestinal-bleeding/diagnosis-treatment/drc-20372732"
+    ],
+    "644.21: Preterm birth": [
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/symptoms-causes/syc-20376730",
+        "https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736"
+    ],
+    "648.91: Complications of pregnancy": [
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/symptoms-causes/syc-20363257",
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/diagnosis-treatment/drc-20363258"
+    ],
+    "772.10: Intraventricular hemorrhage": [
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/symptoms-causes/syc-20361009",
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/diagnosis-treatment/drc-20361014"
+    ],
+    "775.9: Complications of pregnancy": [
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/symptoms-causes/syc-20363257",
+        "https://www.mayoclinic.org/diseases-conditions/cholestasis-of-pregnancy/diagnosis-treatment/drc-20363258"
+    ],
+    "E878.8: Surgery": [
+        "https://www.mayoclinic.org/diseases-conditions/ependymoma/cdc-20350144",
+        "https://www.mayoclinic.org/diseases-conditions/brain-tumor/diagnosis-treatment/drc-20350088"
+    ],
+    "E879.8: Surgery": [
+        "https://www.mayoclinic.org/diseases-conditions/ependymoma/cdc-20350144",
+        "https://www.mayoclinic.org/diseases-conditions/brain-tumor/diagnosis-treatment/drc-20350088"
+    ],
+    "E942.9: Cardiovascular disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118",
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+    ],
+    "427.5: Cardiac arrest": [
+        "https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/symptoms-causes/syc-20350634",
+        "https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/diagnosis-treatment/drc-20350640"
+    ],
+    "285.9: Anemia": [
+        "https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025",
+        "https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/diagnosis-treatment/drc-20355031"
+    ],
+    "427.32: Atrial flutter": [
+        "https://www.mayoclinic.org/diseases-conditions/atrial-flutter/symptoms-causes/syc-20352586",
+        "None"
+    ]
+}

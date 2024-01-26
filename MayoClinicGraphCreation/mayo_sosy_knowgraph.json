@@ -1,0 +1,972 @@
+{
+    "008.45": [
+        "muscle cramp",
+        "watery diarrhea",
+        "sore to touch"
+    ],
+    "238.4": [
+        "has tingling sensation",
+        "upper abdominal pain",
+        "painful swelling of joint",
+        "numbness",
+        "respiratory distress",
+        "abdominal bloating",
+        "dyspnea",
+        "burning sensation"
+    ],
+    "276.51": [
+        "apathy"
+    ],
+    "277.39": [
+        "macroglossia",
+        "constipation",
+        "has tingling sensation",
+        "numbness",
+        "hand pain",
+        "weakness",
+        "dyspnea",
+        "fatigue",
+        "diarrhea"
+    ],
+    "285.21": [
+        "muscle cramp",
+        "edema of foot (finding)",
+        "dyssomnias",
+        "vomiting",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "anorexia",
+        "dyspnea",
+        "fatigue",
+        "hypertensive disease"
+    ],
+    "289.59": [
+        "lightheadedness",
+        "sore to touch",
+        "pain of left shoulder joint",
+        "abdominal pain",
+        "vertigo",
+        "confusion"
+    ],
+    "293.0": [
+        "kleptomania",
+        "anxiety",
+        "self loathing",
+        "feeling tense"
+    ],
+    "305.1": [
+        "anxiety",
+        "constipation",
+        "depressed mood",
+        "agitation",
+        "withdrawal symptoms",
+        "sleeplessness",
+        "diarrhea"
+    ],
+    "311": [
+        "kleptomania",
+        "anxiety",
+        "self loathing",
+        "feeling tense"
+    ],
+    "327.23": [
+        "middle insomnia",
+        "pharyngitis",
+        "depressed mood",
+        "sore throat",
+        "apnea",
+        "hypertensive disease",
+        "morning headache",
+        "mood swings",
+        "excessive daytime sleepiness",
+        "loud snoring",
+        "gasping for breath"
+    ],
+    "348.39": [
+        "memory loss"
+    ],
+    "357.2": [
+        "hypertensive disease",
+        "ache",
+        "respiratory distress"
+    ],
+    "357.82": [
+        "violence",
+        "alcohol problem",
+        "delusions",
+        "paranoia",
+        "mood swings",
+        "fatigue",
+        "withdrawal (dysfunction)",
+        "drug usage",
+        "hallucinations",
+        "confusion",
+        "suicidal"
+    ],
+    "401.9": [
+        "vertigo",
+        "chest pressure",
+        "pain",
+        "dyspnea",
+        "fatigue",
+        "syncope"
+    ],
+    "412": [
+        "lightheadedness",
+        "vertigo",
+        "dyspepsia",
+        "discomfort",
+        "nausea",
+        "chest pain",
+        "pain",
+        "dyspnea",
+        "fatigue",
+        "cold sweat",
+        "heartburn",
+        "ache"
+    ],
+    "414.01": [
+        "vertigo",
+        "headache severe",
+        "numbness",
+        "facial paresis"
+    ],
+    "415.0": [
+        "vertigo",
+        "chest pressure",
+        "pain",
+        "dyspnea",
+        "fatigue",
+        "syncope"
+    ],
+    "416.8": [
+        "vertigo",
+        "chest pressure",
+        "pain",
+        "dyspnea",
+        "fatigue",
+        "syncope"
+    ],
+    "416.9": [
+        "chest tightness",
+        "chronic cough",
+        "wheezing",
+        "dyspnea",
+        "fatigue"
+    ],
+    "424.0": [
+        "cardiac arrhythmia",
+        "chest pain",
+        "vertigo",
+        "fatigue",
+        "syncope"
+    ],
+    "424.1": [
+        "cardiac arrhythmia",
+        "chest pain",
+        "vertigo",
+        "fatigue",
+        "syncope"
+    ],
+    "425.4": [
+        "dyspnea",
+        "syncope",
+        "chest pain"
+    ],
+    "427.1": [
+        "lightheadedness",
+        "vertigo",
+        "angina pectoris",
+        "chest pain",
+        "dyspnea"
+    ],
+    "427.31": [
+        "lightheadedness",
+        "vertigo",
+        "chest pain",
+        "weakness",
+        "dyspnea",
+        "fatigue"
+    ],
+    "428.23": [
+        "exanthema",
+        "cardiac arrhythmia",
+        "myocardial infarction",
+        "coughing",
+        "wheezing",
+        "anorexia",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "fatigue",
+        "congestive heart failure"
+    ],
+    "428.32": [
+        "exanthema",
+        "cardiac arrhythmia",
+        "myocardial infarction",
+        "coughing",
+        "wheezing",
+        "anorexia",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "fatigue",
+        "congestive heart failure"
+    ],
+    "437.0": [
+        "kidney failure",
+        "atherosclerosis of artery",
+        "intermittent claudication",
+        "pain in lower limb",
+        "angina pectoris",
+        "cerebrovascular accident",
+        "upper extremity paresis",
+        "chest pain",
+        "numbness",
+        "low vision",
+        "transient ischemic attack",
+        "arteriopathic disease",
+        "atherosclerosis",
+        "hypertensive disease"
+    ],
+    "458.29": [
+        "coughing",
+        "primary thunderclap headache",
+        "headache"
+    ],
+    "482.9": [
+        "chills",
+        "coughing",
+        "fever",
+        "vomiting",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "dyspnea",
+        "fatigue",
+        "confusion",
+        "diarrhea"
+    ],
+    "486": [
+        "chills",
+        "coughing",
+        "fever",
+        "vomiting",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "dyspnea",
+        "fatigue",
+        "confusion",
+        "diarrhea"
+    ],
+    "491.8": [
+        "chills",
+        "slight fever",
+        "coughing",
+        "chest discomfort",
+        "dyspnea",
+        "fatigue"
+    ],
+    "496": [
+        "chest tightness",
+        "chronic cough",
+        "wheezing",
+        "dyspnea",
+        "fatigue"
+    ],
+    "511.9": [
+        "felt faint",
+        "lightheadedness",
+        "chest fullness",
+        "discomfort",
+        "chest pain",
+        "respiratory distress",
+        "dyspnea"
+    ],
+    "518.0": [
+        "catch - finding of sensory dimension of pain",
+        "myocardial infarction",
+        "breathing abnormally deep",
+        "coughing",
+        "chest pain",
+        "pain",
+        "dyspnea",
+        "decompression sickness",
+        "syncope"
+    ],
+    "518.81": [
+        "fatigue",
+        "confusion"
+    ],
+    "518.83": [
+        "fatigue",
+        "confusion"
+    ],
+    "519.4": [
+        "discomfort",
+        "incontinence"
+    ],
+    "530.81": [
+        "regurgitation",
+        "deglutition disorders",
+        "heartburn",
+        "chest pain"
+    ],
+    "530.82": [
+        "vomiting",
+        "lightheadedness",
+        "blood in stool"
+    ],
+    "536.3": [
+        "anorexia",
+        "vomiting",
+        "nausea",
+        "gastroesophageal reflux disease",
+        "abdominal pain",
+        "abdominal bloating",
+        "malnutrition"
+    ],
+    "571.2": [
+        "ascites",
+        "erythema",
+        "anorexia",
+        "nausea",
+        "gynecomastia",
+        "fatigue",
+        "somnolence",
+        "pathological gynecomastia",
+        "icterus",
+        "confusion"
+    ],
+    "576.1": [
+        "fatigue",
+        "icterus",
+        "abdominal pain"
+    ],
+    "576.2": [
+        "anorexia",
+        "nausea",
+        "icterus"
+    ],
+    "584.9": [
+        "brachial amyotrophic diplegia",
+        "anxiety disorders",
+        "agitation",
+        "coughing",
+        "upper respiratory infections",
+        "frothy sputum",
+        "wheezing",
+        "respiratory distress",
+        "dyspnea",
+        "gasping for breath"
+    ],
+    "585.6": [
+        "muscle cramp",
+        "edema of foot (finding)",
+        "dyssomnias",
+        "vomiting",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "anorexia",
+        "dyspnea",
+        "fatigue",
+        "hypertensive disease"
+    ],
+    "585.9": [
+        "chest tightness",
+        "chronic cough",
+        "wheezing",
+        "dyspnea",
+        "fatigue"
+    ],
+    "600.00": [
+        "pelvic pain",
+        "burning sensation"
+    ],
+    "648.11": [
+        "chest tightness",
+        "neck pain",
+        "chest pressure",
+        "angina pectoris",
+        "chest discomfort",
+        "chest pain",
+        "numbness",
+        "weakness",
+        "pain",
+        "dyspnea"
+    ],
+    "666.24": [
+        "dyspnea",
+        "fatigue"
+    ],
+    "674.04": [
+        "agitation",
+        "lupus erythematosus tumidus",
+        "anxiety disorders",
+        "infantile neuroaxonal dystrophy"
+    ],
+    "691.0": [
+        "sore to touch",
+        "skin tenderness",
+        "discomfort"
+    ],
+    "719.65": [
+        "hip joint pain"
+    ],
+    "733.00": [
+        "lupus erythematosus tumidus",
+        "short stature, onychodysplasia, facial dysmorphism, and hypotrichosis syndrome",
+        "pain"
+    ],
+    "747.83": [
+        "kidney problem"
+    ],
+    "751.2": [
+        "fecal incontinence",
+        "loose stool",
+        "constipation"
+    ],
+    "756.79": [
+        "dyspnea",
+        "hypertensive disease"
+    ],
+    "760.75": [
+        "dyspnea"
+    ],
+    "769": [
+        "dyspnea",
+        "dry cough",
+        "fever"
+    ],
+    "770.0": [
+        "chills",
+        "coughing",
+        "fever",
+        "vomiting",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "dyspnea",
+        "fatigue",
+        "confusion",
+        "diarrhea"
+    ],
+    "770.12": [
+        "chest tightness",
+        "neck pain",
+        "chest pressure",
+        "angina pectoris",
+        "chest discomfort",
+        "chest pain",
+        "numbness",
+        "weakness",
+        "pain",
+        "dyspnea"
+    ],
+    "770.2": [
+        "dyspnea"
+    ],
+    "770.4": [
+        "coughing",
+        "weakness",
+        "wheezing"
+    ],
+    "770.84": [
+        "dyspnea",
+        "dry cough",
+        "fever"
+    ],
+    "771.81": [
+        "pneumonia",
+        "mental status change",
+        "lightheadedness",
+        "shallow breathing",
+        "coughing",
+        "dysuria",
+        "recurrent urinary tract infection",
+        "communicable diseases"
+    ],
+    "775.0": [
+        "chest tightness",
+        "neck pain",
+        "chest pressure",
+        "angina pectoris",
+        "chest discomfort",
+        "chest pain",
+        "numbness",
+        "weakness",
+        "pain",
+        "dyspnea"
+    ],
+    "775.6": [
+        "lightheadedness",
+        "vertigo",
+        "anxiety disorders",
+        "has tingling sensation",
+        "nausea",
+        "headache",
+        "weakness",
+        "numb lips",
+        "hunger",
+        "fatigue"
+    ],
+    "776.1": [
+        "exanthema",
+        "hematuria",
+        "petechiae of skin",
+        "purpura"
+    ],
+    "776.4": [
+        "has tingling sensation",
+        "upper abdominal pain",
+        "painful swelling of joint",
+        "numbness",
+        "respiratory distress",
+        "abdominal bloating",
+        "dyspnea",
+        "burning sensation"
+    ],
+    "778.3": [
+        "memory loss",
+        "somnolence",
+        "clumsiness",
+        "confusion"
+    ],
+    "779.81": [
+        "memory impairment",
+        "lightheadedness",
+        "vertigo",
+        "chest pain",
+        "dyspnea",
+        "fatigue",
+        "syncope",
+        "confusion"
+    ],
+    "806.29": [
+        "vomiting",
+        "nausea",
+        "headache",
+        "vertigo",
+        "fatigue",
+        "somnolence"
+    ],
+    "995.91": [
+        "pneumonia",
+        "mental status change",
+        "lightheadedness",
+        "shallow breathing",
+        "coughing",
+        "dysuria",
+        "recurrent urinary tract infection",
+        "communicable diseases"
+    ],
+    "995.92": [
+        "pneumonia",
+        "mental status change",
+        "lightheadedness",
+        "shallow breathing",
+        "coughing",
+        "dysuria",
+        "recurrent urinary tract infection",
+        "communicable diseases"
+    ],
+    "997.1": [
+        "dyspnea",
+        "syncope",
+        "chest pain",
+        "lightheadedness"
+    ],
+    "998.83": [
+        "halitosis",
+        "unpleasant taste in mouth",
+        "pain"
+    ],
+    "V05.3": [
+        "arthralgia",
+        "discomfort",
+        "vomiting",
+        "nausea",
+        "anorexia",
+        "weakness",
+        "abdominal pain",
+        "fatigue",
+        "icterus",
+        "diarrhea"
+    ],
+    "V10.3": [
+        "dyspepsia",
+        "vomiting",
+        "nausea",
+        "pain",
+        "abdominal bloating",
+        "hunger",
+        "fatigue",
+        "heartburn"
+    ],
+    "V10.46": [
+        "dyspepsia",
+        "vomiting",
+        "nausea",
+        "pain",
+        "abdominal bloating",
+        "hunger",
+        "fatigue",
+        "heartburn"
+    ],
+    "V12.51": [
+        "pain in lower limb",
+        "skin color change",
+        "sensation of warmth",
+        "cramping sensation quality",
+        "sore to touch"
+    ],
+    "V29.0": [
+        "exanthema",
+        "lymphadenopathy",
+        "streptococcal sore throat",
+        "pharyngitis",
+        "sore throat",
+        "fever",
+        "headache",
+        "fatigue",
+        "short stature, onychodysplasia, facial dysmorphism, and hypotrichosis syndrome"
+    ],
+    "V29.3": [
+        "female sexual dysfunction",
+        "sexual arousal disorder",
+        "sexual pain disorder",
+        "orgasmic disorder",
+        "pain"
+    ],
+    "V45.72": [
+        "varicosity",
+        "fatigue",
+        "congestive heart failure"
+    ],
+    "V45.76": [
+        "chest tightness",
+        "chronic cough",
+        "wheezing",
+        "dyspnea",
+        "fatigue"
+    ],
+    "V58.67": [
+        "infective vaginitis",
+        "ketonuria",
+        "mood swings",
+        "weakness",
+        "sore to touch",
+        "fatigue"
+    ],
+    "250.00": [
+        "darkened skin",
+        "numbness",
+        "paresthesia of hand",
+        "sore to touch",
+        "fatigue"
+    ],
+    "276.1": [
+        "agitation",
+        "fatigue",
+        "vomiting",
+        "nausea",
+        "spasm",
+        "headache",
+        "muscle weakness",
+        "seizures",
+        "muscle cramp",
+        "comatose",
+        "somnolence",
+        "confusion"
+    ],
+    "284.8": [
+        "exanthema",
+        "vertigo",
+        "fever",
+        "headache",
+        "dyspnea",
+        "fatigue"
+    ],
+    "343.8": [
+        "muscular stiffness",
+        "cerebral palsy",
+        "floppy",
+        "cerebellar ataxia",
+        "tremor",
+        "muscle spasticity",
+        "muscle rigidity",
+        "movement disorders"
+    ],
+    "410.71": [
+        "lightheadedness",
+        "vertigo",
+        "dyspepsia",
+        "discomfort",
+        "nausea",
+        "chest pain",
+        "pain",
+        "dyspnea",
+        "fatigue",
+        "cold sweat",
+        "heartburn",
+        "ache"
+    ],
+    "414.00": [
+        "kidney failure",
+        "atherosclerosis of artery",
+        "intermittent claudication",
+        "pain in lower limb",
+        "angina pectoris",
+        "cerebrovascular accident",
+        "upper extremity paresis",
+        "chest pain",
+        "numbness",
+        "low vision",
+        "transient ischemic attack",
+        "arteriopathic disease",
+        "atherosclerosis",
+        "hypertensive disease"
+    ],
+    "415.11": [
+        "catch - finding of sensory dimension of pain",
+        "myocardial infarction",
+        "breathing abnormally deep",
+        "coughing",
+        "chest pain",
+        "pain",
+        "dyspnea",
+        "decompression sickness",
+        "syncope"
+    ],
+    "427.89": [
+        "dyspnea",
+        "chest pain"
+    ],
+    "493.90": [
+        "dyspnea",
+        "chest tightness",
+        "wheezing",
+        "coughing"
+    ],
+    "536.2": [
+        "nausea"
+    ],
+    "564.89": [
+        "hematemesis",
+        "hematochezia"
+    ],
+    "577.8": [
+        "yellow complexion",
+        "upper abdominal pain",
+        "vomiting",
+        "nausea",
+        "anorexia",
+        "weakness",
+        "fatigue",
+        "icterus"
+    ],
+    "599.0": [
+        "pelvic pain",
+        "burning sensation"
+    ],
+    "741.00": [
+        "meningocele"
+    ],
+    "765.02": [
+        "dyspnea"
+    ],
+    "765.03": [
+        "dyspnea"
+    ],
+    "765.15": [
+        "dyspnea"
+    ],
+    "765.16": [
+        "dyspnea"
+    ],
+    "765.17": [
+        "dyspnea"
+    ],
+    "765.18": [
+        "dyspnea"
+    ],
+    "765.26": [
+        "dyspnea"
+    ],
+    "765.28": [
+        "dyspnea"
+    ],
+    "771.82": [
+        "pelvic pain",
+        "burning sensation"
+    ],
+    "775.5": [
+        "agitation",
+        "fatigue",
+        "vomiting",
+        "nausea",
+        "spasm",
+        "headache",
+        "muscle weakness",
+        "seizures",
+        "muscle cramp",
+        "comatose",
+        "somnolence",
+        "confusion"
+    ],
+    "779.89": [
+        "anorexia",
+        "nausea",
+        "icterus"
+    ],
+    "909.2": [
+        "disorientation",
+        "alopecia",
+        "fever",
+        "vomiting",
+        "nausea",
+        "headache",
+        "weakness",
+        "vertigo",
+        "fatigue",
+        "diarrhea"
+    ],
+    "998.11": [
+        "dyspnea",
+        "fatigue"
+    ],
+    "998.12": [
+        "vomiting",
+        "headache",
+        "vertigo",
+        "somnolence",
+        "confusion"
+    ],
+    "038.9": [
+        "pneumonia",
+        "mental status change",
+        "lightheadedness",
+        "shallow breathing",
+        "coughing",
+        "dysuria",
+        "recurrent urinary tract infection",
+        "communicable diseases"
+    ],
+    "244.9": [
+        "memory impairment",
+        "mental depression",
+        "constipation",
+        "alopecia",
+        "dry skin",
+        "stiffness",
+        "myalgia",
+        "muscle weakness",
+        "sore to touch",
+        "fatigue",
+        "hoarseness"
+    ],
+    "272.0": [
+        "hypercholesterolemia, familial",
+        "exanthema",
+        "arcus senilis",
+        "hypercholesterolemia"
+    ],
+    "287.5": [
+        "exanthema",
+        "hematuria",
+        "petechiae of skin",
+        "fatigue",
+        "purpura"
+    ],
+    "300.00": [
+        "agitation",
+        "lupus erythematosus tumidus",
+        "anxiety disorders",
+        "infantile neuroaxonal dystrophy"
+    ],
+    "428.0": [
+        "exanthema",
+        "cardiac arrhythmia",
+        "myocardial infarction",
+        "coughing",
+        "wheezing",
+        "anorexia",
+        "nausea",
+        "chest pain",
+        "weakness",
+        "fatigue",
+        "congestive heart failure"
+    ],
+    "443.9": [
+        "erectile dysfunction",
+        "sore to touch",
+        "alopecia",
+        "skin color change",
+        "cramping sensation quality",
+        "weakness",
+        "pain",
+        "leg numbness",
+        "ache"
+    ],
+    "458.9": [
+        "dyspnea",
+        "headache"
+    ],
+    "459.0": [
+        "dyspnea",
+        "fatigue"
+    ],
+    "515": [
+        "clubbing",
+        "myalgia",
+        "dyspnea",
+        "fatigue",
+        "dry cough"
+    ],
+    "578.9": [
+        "hematemesis",
+        "hematochezia"
+    ],
+    "644.21": [
+        "dyspnea"
+    ],
+    "648.91": [
+        "anorexia",
+        "nausea",
+        "icterus"
+    ],
+    "775.9": [
+        "anorexia",
+        "nausea",
+        "icterus"
+    ],
+    "E942.9": [
+        "chest tightness",
+        "neck pain",
+        "chest pressure",
+        "angina pectoris",
+        "chest discomfort",
+        "chest pain",
+        "numbness",
+        "weakness",
+        "pain",
+        "dyspnea"
+    ],
+    "427.5": [],
+    "285.9": [
+        "cardiac arrhythmia",
+        "vertigo",
+        "personality change",
+        "numbness",
+        "paresthesia of hand",
+        "forgetful",
+        "muscle weakness",
+        "dyspnea",
+        "fatigue",
+        "confusion"
+    ]
+}

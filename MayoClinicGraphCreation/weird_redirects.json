@@ -1,0 +1,66 @@
+{
+    "289.59: Wandering spleen": [
+        "https://www.mayoclinic.org/diseases-conditions/ruptured-spleen/symptoms-causes/syc-20352317",
+        "https://www.mayoclinic.org/diseases-conditions/ruptured-spleen/diagnosis-treatment/drc-20352322"
+    ],
+    "357.2: Polyneuropathy": [
+        "https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/symptoms-causes/syc-20362793",
+        "https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/diagnosis-treatment/drc-20363006"
+    ],
+    "357.82: Critical illness polyneuropathy": [
+        "https://www.mayoclinic.org/diseases-conditions/mental-illness/symptoms-causes/syc-20374968",
+        "https://www.mayoclinic.org/diseases-conditions/mental-illness/diagnosis-treatment/drc-20374974"
+    ],
+    "431: Intracerebral hemorrhage": [
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/symptoms-causes/syc-20361009",
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/diagnosis-treatment/drc-20361014"
+    ],
+    "666.24: Postpartum bleeding": [
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/symptoms-causes/syc-20352829",
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/diagnosis-treatment/drc-20352834"
+    ],
+    "747.83: Persistent fetal circulation": [
+        "https://www.mayoclinic.org/diseases-conditions/fetal-alcohol-syndrome/symptoms-causes/syc-20352901",
+        "https://www.mayoclinic.org/diseases-conditions/fetal-alcohol-syndrome/diagnosis-treatment/drc-20352907"
+    ],
+    "770.12: Respiratory disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118",
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+    ],
+    "775.0: Respiratory disease": [
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118",
+        "https://www.mayoclinic.org/diseases-conditions/heart-disease/diagnosis-treatment/drc-20353124"
+    ],
+    "998.83: Wound healing": [
+        "https://www.mayoclinic.org/diseases-conditions/dry-socket/symptoms-causes/syc-20354376",
+        "https://www.mayoclinic.org/diseases-conditions/dry-socket/diagnosis-treatment/drc-20354382"
+    ],
+    "V10.3: Cancer": [
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438",
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443"
+    ],
+    "V10.46: Cancer": [
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/symptoms-causes/syc-20352438",
+        "https://www.mayoclinic.org/diseases-conditions/stomach-cancer/diagnosis-treatment/drc-20352443"
+    ],
+    "V29.3: Metabolic dysfunction\u2013associated steatotic liver disease": [
+        "https://www.mayoclinic.org/diseases-conditions/female-sexual-dysfunction/symptoms-causes/syc-20372549",
+        "https://www.mayoclinic.org/diseases-conditions/female-sexual-dysfunction/diagnosis-treatment/drc-20372556"
+    ],
+    "998.11: Bleeding": [
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/symptoms-causes/syc-20352829",
+        "https://www.mayoclinic.org/diseases-conditions/menorrhagia/diagnosis-treatment/drc-20352834"
+    ],
+    "772.10: Intraventricular hemorrhage": [
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/symptoms-causes/syc-20361009",
+        "https://www.mayoclinic.org/diseases-conditions/subarachnoid-hemorrhage/diagnosis-treatment/drc-20361014"
+    ],
+    "E878.8: Surgery": [
+        "https://www.mayoclinic.org/diseases-conditions/ependymoma/cdc-20350144",
+        "https://www.mayoclinic.org/diseases-conditions/brain-tumor/diagnosis-treatment/drc-20350088"
+    ],
+    "E879.8: Surgery": [
+        "https://www.mayoclinic.org/diseases-conditions/ependymoma/cdc-20350144",
+        "https://www.mayoclinic.org/diseases-conditions/brain-tumor/diagnosis-treatment/drc-20350088"
+    ]
+}
