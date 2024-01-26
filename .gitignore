@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore metmap
+Metamap/public_mm/DB
+
 # C extensions
 *.so
 
