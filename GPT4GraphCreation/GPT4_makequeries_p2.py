@@ -1,7 +1,7 @@
 from openai import OpenAI
 import pickle
 import json
-OPENAI_API_KEY='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'
+OPENAI_API_KEY='<put your api key here>'
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
